@@ -1,4 +1,4 @@
-# Pneumatic-Hand
+# Pneumatic Actuator Hand Skeleton
 Multiple McKibben actuated hand for soft robotics.
 
 Air-powered McKibben soft actuators powered by tire compressor + solenoid valves + PCA9685 PWM driver + ULN2803A Darlington transistor array.
