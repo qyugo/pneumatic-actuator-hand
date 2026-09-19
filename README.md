@@ -4,6 +4,8 @@ Multiple McKibben actuated hand for soft robotics.
 Air-powered McKibben soft actuators powered by tire compressor + solenoid valves + PCA9685 PWM driver + ULN2803A Darlington transistor array.
 Self-topping accumulator tank and old 12V tire compressor using bang-bang control via N-Ch MOSFET + 12V Bosch automotive relay + 12V pressure transducer.
 
+<img src="https://github.com/user-attachments/assets/78ad065e-18bc-4b37-a1e5-52d40b91c5c1" width="60%" />
+
 https://github.com/user-attachments/assets/2843a26b-b9ff-487c-ac3d-21256a61831c
 
 Limitations:
