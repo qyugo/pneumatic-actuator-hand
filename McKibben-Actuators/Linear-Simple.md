@@ -51,7 +51,9 @@ Theoretically, the percentage of strain would be identical for a single McKibben
 
 Furthermore, the starting position of the actuator can have a braid angle of larger than 90 °, if working from a slightly stretched position, as the above formula accounts for a neutral starting point, where the braid angles are at a right angle. Therefore, experimental strain _distance_ can perhaps be more than what the formula gives.
 
-Ultimately, under the Chou and Hannaford model, the strain ratio is simply reliant on the starting angle and the theoretical maximum contraction angle of 54.7, and then accounting for any forces that oppose contraction, as well as failure processes due to bladder or braid rupture. 
+Ultimately, under the Chou and Hannaford model, the strain ratio is simply reliant on the starting angle and the theoretical maximum contraction angle of 54.7 °, and then accounting for any forces that oppose contraction, as well as failure processes due to bladder or braid rupture. 
+
+Rough Test using 12V Diaphragm Pump (not entirely standardized)
 
 1/2" Sleeve:
 
@@ -62,6 +64,13 @@ Ultimately, under the Chou and Hannaford model, the strain ratio is simply relia
 
 <img src="https://github.com/user-attachments/assets/b87498c4-7eef-4a18-a079-5b83bee875d0" width="38%"/>
 <img src="https://github.com/user-attachments/assets/50694b3e-2e4f-4fff-b3d5-0a0b2f6739b2" width="40%"/>
+
+At the time of testing, I only had a small 12v diaphragm pump, which does not have too large of a pressure limit. For the actual project, I used an old 12V tire compressor which can funnel much more pressure needed to activate the McKibbens. The 260 balloons have a surprisingly stiff start-up pressure.
+
+The 1/2" sleeve contracted from approximately 20cm to 15.5cm, while the 1/4" sleeve contracted from 18cm to 15cm, giving a strain ratio of about 22.5% and 16.7%, respectively. These are rough values, but gives an idea of the general strain percentage to be worked with. Maybe later I will do some more thorough testing on different lengths and provide an accurate pressure reading, since at the time, I didn't have the hardware.
+
+I ended up using 1/4" braised sleeves for the finger flexors of the project, each lining the length of the forearm bones.
+
 
 
 
