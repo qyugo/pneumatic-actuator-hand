@@ -1,7 +1,7 @@
 # Pneumatic Actuator Hand Skeleton
 Multiple McKibben actuated hand for soft robotics.
 
-This is my Air-powered McKibben soft actuated hand, powered by an old tire compressor + solenoid valves + PCA9685 PWM driver + ULN2803A Darlington transistor array. It features a self-topping compressor-accumulator tank controlled via N-Ch MOSFET + 12V Bosch automotive relay + 12V pressure transducer for bang-bang control.
+This is my Air-powered McKibben soft actuated hand, powered by an old tire compressor + solenoid valves + PCA9685 PWM driver + ULN2803A Darlington transistor array. It features a self-topping compressor-accumulator tank controlled via N-Ch MOSFET + 12V Bosch automotive relay + 12V pressure transducer for bang-bang control via a cheap ESP32 board, using C++/PlatformIO.
 
 Actuator theory, hardware explanations, and code are contained in this repo.
 
