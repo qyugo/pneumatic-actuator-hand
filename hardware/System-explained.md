@@ -36,8 +36,8 @@ A simple averaging algorithm was implemented for 16 samples taken 200 microsecon
 
 A 12V Bosch-style relay was used to turn the tire compressor on/off if required by the control loop. "Bang-bang" control describes a two-step on/off control mechanism, or an abrupt switching between two states.
 
-<img src="https://github.com/user-attachments/assets/49650585-9318-46c0-93e9-19144d9ef432" width = "45%"/>
-<img src="https://github.com/user-attachments/assets/a6434c05-4872-4878-a136-4fac18369dae" width = "45%"/>
+<img src="https://github.com/user-attachments/assets/49650585-9318-46c0-93e9-19144d9ef432" width = "35%"/>
+<img src="https://github.com/user-attachments/assets/a6434c05-4872-4878-a136-4fac18369dae" width = "35%"/>
 
 
 This requires an N-channel MOSFET for the relay coil governed by a GPIO pin -> 220 ohm gate resistor, which dampens inrush current into the gate capacitance/prevents ringing.
