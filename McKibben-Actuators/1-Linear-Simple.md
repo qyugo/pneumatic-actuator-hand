@@ -1,3 +1,9 @@
+---
+title: Simple McKibben
+parent: Soft Actuation
+nav_order: 1
+---
+
 # McKibben Actuator Theory and Construction
 
 This project uses some unstandardized and archaic ways of constructing McKibben actuators, therefore the concept build may not contain fully uniform actuators.
