@@ -1,3 +1,9 @@
+---
+title: Advanced McKibbens
+parent: Soft Actuation
+nav_order: 2
+---
+
 ## More Advanced McKibben Configurations
 
 According to Google, due to the aforementioned "magical number" in braid-angle limit described in [Linear-Simple.md](Linear-Simple.md), the maximum contraction ratio of a McKibben amounts to approximately 36.3% strain.
