@@ -1,7 +1,7 @@
 ---
 title: Bill of Materials
 parent: System Design
-nav_order: 4
+nav_order: 3
 ---
 
 ## Bill of Materials
