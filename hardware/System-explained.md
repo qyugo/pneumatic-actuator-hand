@@ -64,7 +64,7 @@ When the valve is turned off, the third opening of the valve acts as an exhaust,
 
 This requires both the PCA9685 PWM relay and the ULN2805 Darlington transistor array. 
 
-<img src="https://github.com/user-attachments/assets/7fe1898e-21b3-4189-800c-0b96e9ae66e2" width = "56%"/>
+<img src="https://github.com/user-attachments/assets/7fe1898e-21b3-4189-800c-0b96e9ae66e2" width = "50%"/>
 
 <img src="https://github.com/user-attachments/assets/cd9dc10b-2095-484f-a4b9-6cfb57fb1b8e" width = "32%"/>
 
