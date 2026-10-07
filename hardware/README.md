@@ -1,9 +1,9 @@
 ---
-title: Hardware
+title: System Design
 nav_order:  2
 has_children: true
 ---
 
-# Hardware Design
+# System Design Documentation
 
-Pneumatic and electrical system explained, with BOM and design materials.
+Pneumatic, mechanical, electrical, and software system explained, with schematic, BOM, CAD, and design materials.
