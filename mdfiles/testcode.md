@@ -1,6 +1,6 @@
 ---
-title: Component Tests
-parent: Software
+title: Testing Scripts
+parent: Code
 nav_order: 2
 ---
 
