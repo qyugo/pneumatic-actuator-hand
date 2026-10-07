@@ -1,6 +1,6 @@
 ---
-title: System Design
-parent: Hardware
+title: System Explained
+parent: System Design
 nav_order: 1
 ---
 
