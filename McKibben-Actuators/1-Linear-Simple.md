@@ -1,5 +1,5 @@
 ---
-title: Simple McKibben
+title: Simple Linear McKibbens
 parent: Soft Actuation
 nav_order: 1
 ---
