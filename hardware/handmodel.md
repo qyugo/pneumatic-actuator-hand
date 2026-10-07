@@ -30,9 +30,9 @@ A small simplification that I made is I put hinge joints at the base of the phal
 
 However, I did attempt to make a saddle joint for the thumb and trochoid/ellipsoidal joint for the wrist.
 
-<img src="https://github.com/user-attachments/assets/3c369ea5-7a31-4def-a3ed-f6442036f412" width = "40%"/>
+<img src="https://github.com/user-attachments/assets/3c369ea5-7a31-4def-a3ed-f6442036f412" width = "38%"/>
 
-<img src="https://github.com/user-attachments/assets/13a9faf0-a081-47b7-a58f-0b812a13b9ea" width = "50%"/>
+<img src="https://github.com/user-attachments/assets/13a9faf0-a081-47b7-a58f-0b812a13b9ea" width = "45%"/>
 
 ## 3. Joint Stabilizers + Antagonists
 
@@ -42,9 +42,9 @@ Collateral ligaments connect bone-to-bone. Unlike muscles, ligaments are incredi
 
 For ligaments, I used high-strength fishing line to thread and tie with a fishing knot. Something else to consider is that I didn't plan for antagonist muscles (muscles that extend the finger, only ones that flex it), so I tied a thin elastic band around the finger to allow for antagonist spring-like behavior when the flexion muscle is off, and also doubling as additional protection for the joints/ligaments in case they slip.
 
-<img src="https://github.com/user-attachments/assets/5fecc6b8-66d2-449a-b60d-2344f7611647" width = "54%"/>
+<img src="https://github.com/user-attachments/assets/5fecc6b8-66d2-449a-b60d-2344f7611647" width = "50%"/>
 
-<img src="https://github.com/user-attachments/assets/07630795-dc18-40a2-bec0-12a795270ebd" width = "38%"/>
+<img src="https://github.com/user-attachments/assets/07630795-dc18-40a2-bec0-12a795270ebd" width = "36%"/>
 
 <img src="https://github.com/user-attachments/assets/24cc0670-28e4-4297-87ef-fb483d545da8" width = "80%"/>
 
