@@ -1,3 +1,9 @@
+---
+title: CAD
+parent: Hardware
+nav_order: 2
+---
+
 # Hand Model + Skeleton
 
 ## 1. Bone Geometry
