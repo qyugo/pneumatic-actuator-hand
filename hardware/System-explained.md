@@ -64,9 +64,10 @@ When the valve is turned off, the third opening of the valve acts as an exhaust,
 
 This requires both the PCA9685 PWM relay and the ULN2805 Darlington transistor array. 
 
-<img src="https://github.com/user-attachments/assets/7fe1898e-21b3-4189-800c-0b96e9ae66e2" width = "50%"/>
-
-<img src="https://github.com/user-attachments/assets/cd9dc10b-2095-484f-a4b9-6cfb57fb1b8e" width = "32%"/>
+<div style="display: flex; gap: 1rem;">
+  <img src="https://github.com/user-attachments/assets/7fe1898e-21b3-4189-800c-0b96e9ae66e2" style="width: 50%;">
+  <img src="https://github.com/user-attachments/assets/cd9dc10b-2095-484f-a4b9-6cfb57fb1b8e" style="width: 32%;">
+</div>
 
 The PCA9685 is a PWM generator with 16 channels that talks to the MCU over I2C. It theoretically should be able to do a degree of proportional control via PWM (for controlling slow rate/actuation speed), but I have yet to test this. 
 
