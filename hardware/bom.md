@@ -1,7 +1,7 @@
 ---
 title: Bill of Materials
 parent: Hardware
-nav_order: 2
+nav_order: 3
 ---
 
 ## Bill of Materials
