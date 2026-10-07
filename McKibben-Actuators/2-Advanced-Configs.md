@@ -1,6 +1,6 @@
 ---
 title: Advanced McKibbens
-parent: Soft Actuation
+parent: Soft Actuation Theory
 nav_order: 2
 ---
 
