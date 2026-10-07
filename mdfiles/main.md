@@ -1,6 +1,6 @@
 ---
-title: Main Code
-parent: Software
+title: Main Code (Current)
+parent: Code
 nav_order: 1
 ---
 
