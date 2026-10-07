@@ -50,6 +50,10 @@ For ligaments, I used high-strength fishing line to thread and tie with a fishin
 
 Antagonist "spring" demo:
 
+<video autoplay muted loop playsinline style="width: 80%;">
+  <source src="https://github.com/user-attachments/assets/14df10ae-32fb-4018-bb55-03f4eb86eb4b" type="video/mp4">
+</video>
+
 https://github.com/user-attachments/assets/14df10ae-32fb-4018-bb55-03f4eb86eb4b
 
 
