@@ -1,6 +1,6 @@
 ---
 title: Simple Linear McKibbens
-parent: Soft Actuation
+parent: Soft Actuation Theory
 nav_order: 1
 ---
 
