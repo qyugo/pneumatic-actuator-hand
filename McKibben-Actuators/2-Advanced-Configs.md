@@ -6,7 +6,7 @@ nav_order: 2
 
 ## More Advanced McKibben Configurations
 
-According to Google, due to the aforementioned "magical number" in braid-angle limit described in [Linear-Simple.md](Linear-Simple.md), the maximum contraction ratio of a McKibben amounts to approximately 36.3% strain.
+According to Google, due to the aforementioned "magical number" in braid-angle limit described in [the previous page](1-Linear-Simple.md), the maximum contraction ratio of a McKibben amounts to approximately 36.3% strain.
 
 With a lower budget and manufacturing limitations, I wanted to see if it was possible to obtain a greater strain attribute (more than 36.3%) for McKibbens, as the length of the current actuators are limited by the length of the forearm bones.
 
