@@ -1,6 +1,6 @@
 ---
-title: CAD
-parent: Hardware
+title: Hand Skeleton Design
+parent: System Design
 nav_order: 2
 ---
 
