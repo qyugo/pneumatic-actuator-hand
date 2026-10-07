@@ -1,3 +1,9 @@
+---
+title: Overview
+nav_order: 1
+permalink: /
+---
+
 # Pneumatic Actuator Hand Skeleton
 Multiple McKibben actuated hand for soft robotics.
 
