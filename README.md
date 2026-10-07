@@ -4,7 +4,9 @@ nav_order: 1
 permalink: /
 ---
 
-https://github.com/user-attachments/assets/2843a26b-b9ff-487c-ac3d-21256a61831c
+<video autoplay muted loop playsinline style="width: 100%;">
+  <source src="https://github.com/user-attachments/assets/2843a26b-b9ff-487c-ac3d-21256a61831c" type="video/mp4">
+</video>
 
 # Pneumatic Actuator Hand Skeleton
 Multiple McKibben actuated hand for soft robotics.
